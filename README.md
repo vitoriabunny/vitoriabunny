@@ -5,14 +5,13 @@
 
 ## 🌈 Sobre mim
 
-- 💻 Desenvolvedora **Front-End**
-- 🎨 Apaixonada por design e interfaces intuitivas
-- 📚 Sempre explorando novas tecnologias
-- 🌈 Criando com criatividade, cor e código
+-  Desenvolvedora **Front-End**
+-  Foco em interfaces limpas e intuitivas
+-  Explorando novas tecnologias sempre que posso
+-  Estilo de código: simples, sem excessos
 
----
 
-## 💡 Tecnologias que uso
+## Tecnologias que uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
@@ -26,19 +25,8 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaamr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌍 Onde me encontrar
+##  Get In Touch
 
 <p align="center">
   <a href="mailto:2005vitoriadealmeida@gmail.com">
