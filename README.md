@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/gist/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif" width="300" />
-<h1 align="center">✨ Olá, eu sou a Vitória! ✨</h1>
+<h1 align="center">Oi, seja bem-vindo(a)!</h1>
 
 
 
@@ -31,7 +31,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoriaamr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="GitHub Streak" />
 </p>
