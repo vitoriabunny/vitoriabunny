@@ -4,6 +4,9 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vitoriabunny=anuraghazra&theme=radical&show_icons=true)
+
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
