@@ -4,7 +4,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vitoriabunny=anuraghazra&theme=radical&show_icons=true)
+![vitoriabunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriabunny&theme=radical&show_icons=true)
+
 
 
 <p>
